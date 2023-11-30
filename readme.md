@@ -1,7 +1,7 @@
 # Pinterest Chrome Extension
 This extension helps you collect, organize, save and revisit your inspiring ideas whenever you wish to.
 
-## **How to use this**
+## **How to get this**
 * Clone this repository.
 * Go to Chrome -> Extensions -> Manage Extensions.
 * Switch on the developer mode -> Click on Load Unpacked.
